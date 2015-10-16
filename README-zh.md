@@ -1,6 +1,6 @@
 # Javascript in one pic
 
-[ 语言: [English](README.md), [中文](README-zh.md) ]
+[ 语言: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md) ]
 
 <!-- BADGES/ -->
 
@@ -40,16 +40,19 @@
 - [X] Array - methods: map/reduce;
 - [X] Object(OOP) - constructor, properties;
 - [X] Object(OOP) - inheritance;
-- [ ] Scope;
+- [X] Scope;
+- [X] Function - closures;
 - [ ] Operators - bitwise;
 - [X] Flow control - try/catch;
-- [ ] Tips;
+- [ ] ES6;
 
 ## 参考
 
 1. [Professional JavaScript for Web Developers](http://www.amazon.cn/gp/offer-listing/1118026691/ref=tmm_pap_new_olp_sr?ie=UTF8&condition=new&sr=&qid=)
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+4. [图解Javascript上下文与作用域](http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/)
+
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
